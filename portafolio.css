@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+#contenedor{
+	width: 1050px;
+	height: 1680px;
+	background-color: #FFFFFF;
+}
+
+#cabeza{
+	height: 9%;
+	background-color: #000000;
+	
+}
+
+#logo{
+	width: 500px;
+	float:left;
+	height: 150px;
+}
+
+#logokaren{
+	width:300px;
+	height:auto;
+	margin-top: 50px;
+	margin-left: 23px;
+}
+
+th{
+	width:90px;
+	padding:2px;
+	color:#FFF;
+	font-family:"Arial Black", Gadget, sans-serif;
+}
+
+#menu{
+	padding:5px;
+	border: 7px;
+	width:40%;
+	float: right;
+	margin-top:50px;
+}
+
+#contenido{
+	height:50%;
+	background-color: #F9F2F2;
+	
+}
+
+.tabla{
+
+}
+
+.img{
+	width: 300px;
+	margin-left: 30px;
+	
+}
+
+#footer{
+	height:30%;
+	background-color:#FFF;
+
+}
+
+#todasredes{
+	width: 500px;
+	height:500;
+	margin-right: 100px;
+	margin-left: 200px;
+}
+
+
+.whats{
+	margin-right: 100px;
+}
+
+body{
+	margin:0px;
+}
+

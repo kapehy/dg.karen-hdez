@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+#contenedor{
+	
+	ywidth: 1050px;
+	height: 880px;
+	background-color: #232323;
+}
+
+#cabeza{
+	height: 9%;
+	background-color: #000000;
+	
+}
+
+#logo{
+	width: 500px;
+	float:left;
+	height: 150px;
+}
+
+
+
+#menu{
+	padding:5px;
+	border: 7px;
+	width:40%;
+	float: right;
+	margin-top:50px;
+}
+#flores{
+ position:absolute;
+ left:20px;
+ top:0px;
+}
+th{
+	width:90px;
+	padding:2px;
+	color:#FFF;
+	font-family:"Arial Black", Gadget, sans-serif;
+}
+
+#contenido{
+	
+	height:80%;
+	background-color: #232323; 
+}
+
+.que{
+	width: 800px;
+	margin-top: 120px;
+	margin-left:300px;
+	
+}
+
+
+#footer{
+	height:34%;
+	background-color:#FFF;
+
+}
+
+#contactos{
+	color:#000000;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	padding: 0px;
+	
+}
+
+#todasredes{
+	width: 500px;
+	height:500;
+	margin-right: 100px;
+	margin-left: 380px;
+}
+
+
+.whats{
+	margin-right: 100px;
+}
+
+body{
+	margin:0px;
+}
+
